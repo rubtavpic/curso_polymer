@@ -1,0 +1,15 @@
+{
+  "name": "webcomponentsjs",
+  "homepage": "https://github.com/webcomponents/webcomponentsjs",
+  "version": "2.2.10",
+  "_release": "2.2.10",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.2.10",
+    "commit": "a1c767b7b4545ecf9f0b723f5a42bff133b1ec3a"
+  },
+  "_source": "https://github.com/webcomponents/webcomponentsjs.git",
+  "_target": "^2.2.10",
+  "_originalSource": "webcomponents/webcomponentsjs",
+  "_direct": true
+}

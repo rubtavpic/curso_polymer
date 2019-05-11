@@ -1,0 +1,21 @@
+{
+  "name": "hola-keepcoding",
+  "homepage": "https://github.com/rubtavpic/curso_polymer",
+  "authors": [
+    "Ruben Tavero <rubentavero@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^2.2.10"
+  }
+}
